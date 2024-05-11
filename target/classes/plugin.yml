@@ -1,0 +1,5 @@
+name: lwChat
+version: '1.0'
+main: lightwolf.lwchat.LwChat
+author: LightWolf
+api-version: '1.16'
